@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textta/static/css/main.e6c13ad2.css",
+    "main.js": "/textta/static/js/main.d8683368.js",
+    "static/js/453.c213a228.chunk.js": "/textta/static/js/453.c213a228.chunk.js",
+    "index.html": "/textta/index.html",
+    "main.e6c13ad2.css.map": "/textta/static/css/main.e6c13ad2.css.map",
+    "main.d8683368.js.map": "/textta/static/js/main.d8683368.js.map",
+    "453.c213a228.chunk.js.map": "/textta/static/js/453.c213a228.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d8683368.js"
+  ]
+}
